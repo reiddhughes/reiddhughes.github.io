@@ -6,7 +6,7 @@ Welcome to my page and blog!  Take a look at my posts for thoughts about side pr
 
 ## Connect
 
-https://www.linkedin.com/in/reiddhughes/
+{{ site.linkedin_badge }}
 
 ## About the Author
 
