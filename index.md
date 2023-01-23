@@ -2,8 +2,6 @@
 title: Huge Works
 ---
 
-{{ site.linkedin_script }}
-
 Welcome to my page and blog!  Take a look at my posts for thoughts about side projects, tools, software development, and all things DevOps.
 
 ## Connect
