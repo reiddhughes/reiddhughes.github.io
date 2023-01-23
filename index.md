@@ -1,3 +1,5 @@
+{{ site.linkedin_script }}
+
 ---
 title: Huge Works
 ---
